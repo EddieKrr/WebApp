@@ -1,11 +1,19 @@
+/*Style for the  header*/
+header
+{
+    margin: auto;
+    width: auto;
+}
 /* Heading style */
 h1
 {
     text-align: left;
-    font-size: 60px;
+    font-size: 20px;
     background-color: black;
     color: aliceblue;
     border-style: groove;
+    margin: auto;
+    width: auto;
 }
 /* Sub heading styles */
 h2
@@ -19,12 +27,12 @@ p
 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 40px;
-    color: #ffffff;
+    color: #030303;
 }
 /* body styles */   
 body
 {
-    background-image: url(HomePg.jpg);
+    background-color: #fff;
 }
 /* Menu buttons Css */
 ul.navigation {
@@ -39,7 +47,7 @@ ul.navigation li {
 }
 ul.navigation li a {
     text-decoration: none;
-    font-size: 50px;
+    font-size: 20px;
     color: #fff; /* Customize link color */
     background-color: #373737;
     padding: 5px;
