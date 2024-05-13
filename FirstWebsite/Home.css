@@ -124,7 +124,7 @@ ul.footer li a
 /* Side nav menu */
 .sidenav
 {
-    
+    right: 0;
     height: 100%;
     width: 0;
     position: fixed;
@@ -162,8 +162,15 @@ ul.footer li a
     margin-left: 50px;
 }
 /* Smaller screen styling */
-@media  and (max-height: 450px) 
+@media screen and (max-height: 450px) 
 {
     .sidenav{padding-top: 15px}
     .sidenav a{font-size: 18px;}
+}
+div
+{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
 }
