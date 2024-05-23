@@ -173,4 +173,6 @@ div
     height: 5px;
     background-color: black;
     margin: 6px 0;
+    position: relative;
+    left: 1469px;
 }
