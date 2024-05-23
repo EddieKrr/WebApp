@@ -38,13 +38,12 @@
     <a href="#">Contact Us</a>
 </div>
 <!-- Use this to open the side menu -->
-    <h1>Sleipnir Cars</h1>
     <p>Our team is guaranteed to make sure that you drive off the lot in your dream! Welcome and see the amazing deals we have for you!</p>
 <footer>
     <ul class = "footer">
         <li><a href="index.html">Home</a></li>
-        <li>About Us</li>
-        <li>FAQ</li>
+        <a href="about.html"><li>About Us</li></a>
+        <a href="contact.html"><li>"</li></a>
     </ul>
 </footer>
 </body>
