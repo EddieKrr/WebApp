@@ -1,3 +1,4 @@
+<php>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,3 +11,4 @@
   <p>Welcome to our car dealership! We specialize in providing top-quality vehicles and excellent customer service.</p>
 </body>
 </html>
+</php>
